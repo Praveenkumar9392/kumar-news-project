@@ -1,0 +1,20 @@
+.container .jumbotron {
+
+    text-align: center;
+    margin-top: 150px;
+    color: red;
+
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1372419571/photo/sun-on-blue-sky.jpg?b=1&s=170667a&w=0&k=20&c=19WiDL88iKiY_S2TQGtQUM7VezbLkeV7YlKjk4cJVbg=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+ul{
+    color: yellow;
+    font-size: 20px;
+}
